@@ -304,6 +304,7 @@ section.features {
   background-color: #1e1e1e;
   margin-left: 5%;
   margin-right: 5%;
+  padding-bottom: 100px;
 }
 
 section.features .features-item {
